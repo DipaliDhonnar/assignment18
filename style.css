@@ -10,6 +10,7 @@
     margin: 50px;
     font-family:Sans-serif;
     color: #078080;
+    font-size: 15px;
 
 }
 .text-align-center{
@@ -62,14 +63,13 @@
 .button{
     height: 30px;
     padding: 5px;
-    margin-right: 100px;
-    margin: 10px;
+    margin:10px 20px 30px 70px;
     width: 100px;
     border-radius: 10px;
-    background-color:#99ffd6;
+    background-color:#eeb065;
     color:#000066;
     border: 1px solid #232323;
-}
+    }
 .img{
     display: flex;
     flex-direction:row;
@@ -87,6 +87,7 @@
     padding: 10px;
     margin: 10px;
     color: #078080;
+    font-size: 17px;
 }
 .body{
     background-color:#fff3e6;
