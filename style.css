@@ -15,3 +15,58 @@
 .text-align-center{
     text-align: center;
 }
+.production
+{
+    display: flex;
+    justify-content: center;
+   
+}
+.sub-production{
+    border: 2px double;
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    margin: 30px;
+    font-family:Sans-serif;
+    color: #078080;
+}
+.contact{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+.logo{
+    height: 50px;
+    padding:5px 50px 0px 100px;
+    margin:0px;
+}
+.form{
+    border-radius: 6px;
+    height: 10px;
+    width: 200px;
+    padding: 10px;
+    margin: 15px;
+     color: #078080;;
+}
+.sub-box1{
+    border: 2px solid;
+    width: 400px;
+    height: 450px;
+    padding: 10px;
+    margin: 50px;
+    color: #078080;
+}
+.button{
+    height: 30px;
+    padding: 5px;
+    margin-right: 100px;
+    margin: 10px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:#99ffd6;
+    color:#000066;
+    border: 1px solid #232323;
+}
