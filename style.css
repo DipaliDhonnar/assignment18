@@ -1,0 +1,17 @@
+.main-box{
+    display: flex;
+    justify-content: center;
+}
+.sub-box{
+    border: 2px solid;
+    width: 250px;
+    height: 300px;
+    padding: 20px 10px;
+    margin: 50px;
+    font-family:Sans-serif;
+    color: #078080;
+
+}
+.text-align-center{
+    text-align: center;
+}
