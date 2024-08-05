@@ -28,7 +28,7 @@
     height: auto;
     padding: 20px;
     margin: 30px;
-    font-family:Sans-serif;
+    font-family:"Edu AU VIC WA NT Hand", cursive;
     color: #078080;
 }
 .contact{
@@ -88,6 +88,7 @@
     margin: 10px;
     color: #078080;
     font-size: 17px;
+    font-family: "Gupter", serif;
 }
 .body{
     background-color:#fff3e6;
